@@ -13,9 +13,9 @@ html {
     font-family: 'Public Sans', sans-serif;
     font-size: $font-sm;
     font-weight: 300;
-    color: $grayishBlue;
+    color:$grayishBlue;
     line-height: 1.3;
-    min-height: 350vh;
+    min-height: 300vh;
     overflow-x: hidden;
   
     @include breakpoint-up(large){
